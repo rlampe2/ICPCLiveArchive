@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 /**
+ * Problem 4872
+ * 
  * This program is for CSCE310 Programming Competition
  * Essentially, there are points in xy and we want the minimum amount of "cable" to connect them
  * 
